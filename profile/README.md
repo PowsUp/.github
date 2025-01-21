@@ -2,4 +2,5 @@
 
 Organizzazione ufficiale GitHub di PowsUp! per lo sviluppo e realizzazione di progetti inerenti ed integrati al progetto.
 
-🛠️[Stato dei servizi](https://powsup.statuspage.io/) | 🐾[Aiutaci!](https://powsup.net/volunteers/)
+🐾[Aiutaci!](https://powsup.net/volunteers/)
+🛠️[Stato dei servizi](https://powsup.statuspage.io/)
