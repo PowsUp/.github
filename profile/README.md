@@ -4,4 +4,6 @@ Organizzazione ufficiale GitHub di PowsUp! per lo sviluppo e realizzazione di pr
 
 🐾[Aiutaci!](https://powsup.net/volunteers/)
 
+👪[Chi siamo](https://powsup.net/about/)
+
 🛠️[Stato dei servizi](https://powsup.statuspage.io/)
